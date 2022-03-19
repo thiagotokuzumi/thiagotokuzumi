@@ -1,6 +1,6 @@
 ### Seja bem vindo(a)! Me chamo Thiago Tokuzumi 👋
 
-- 🔭 Atualmente trabalhando com front-end
+- 🔭 Jobs como front-end web dev
 - 🌱 Learning BI & C#
 - 💪 Procurado evolução pessoal e profissional
 - 📟 7º Semestre em Sistemas de Informação - UMC
