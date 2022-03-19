@@ -4,8 +4,8 @@
 - 🌱 Learning BI & C#
 - 💪 Procurado evolução pessoal e profissional
 - 📟 7º Semestre em Sistemas de Informação - UMC
-- ⚡ Fun fact: Trabalho com front, mas prefiro back-end
-- ⚠️ Respeito e educação !important
+- ⚡ Fun fact: Trabalho com front, mas sempre prefiri back-end
+- ⚠️ Respeito e comunicação !important
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotokuzumi&theme=highcontrast&layout=compact&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/thiagotokuzumi/github-readme-stats)
