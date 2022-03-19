@@ -2,6 +2,7 @@
 
 - 🔭 Jobs como front-end web dev
 - 🌱 Learning BI & C#
+- 💎 UI/UX & Clean code
 - 💪 Procurado evolução pessoal e profissional
 - 📟 7º Semestre em Sistemas de Informação - UMC
 - ⚡ Fun fact: Amo praia, mas tenho medo do mar
