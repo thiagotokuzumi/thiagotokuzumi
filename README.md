@@ -4,7 +4,7 @@
 - 🌱 Learning BI & C#
 - 💪 Procurado evolução pessoal e profissional
 - 📟 7º Semestre em Sistemas de Informação - UMC
-- ⚡ Fun fact: Trabalho com front, mas sempre prefiri back-end
+- ⚡ Fun fact: Amo praia, mas tenho medo do mar
 - ⚠️ Respeito e comunicação !important
 <br>
 
