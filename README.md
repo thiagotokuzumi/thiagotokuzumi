@@ -8,7 +8,7 @@
 - ⚠️ Respeito e comunicação !important
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotokuzumi&theme=highcontrast&layout=compact&custom_title=Linguagens%20mais%20utilizadas%20aqui)](https://github.com/thiagotokuzumi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotokuzumi&theme=highcontrast&layout=compact&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/thiagotokuzumi/github-readme-stats)
   
 <div style="display: inline_block">
   
