@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Trabalho com front, mas prefiro back-end
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&theme=highcontrast&layout=compact&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/rafaballerini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotokuzumi&theme=highcontrast&layout=compact&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/thiagotokuzumi/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
