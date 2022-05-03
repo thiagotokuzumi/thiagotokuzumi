@@ -1,7 +1,6 @@
 ### Seja bem vindo(a)! Me chamo Thiago Tokuzumi 👋
 
-- 🔭 Jobs como front-end web dev
-- 🌱 Learning BI & C#
+- 🌱 Learning .NET 6 and Flutter
 - 💎 UI/UX, SEO & Clean code
 - 💪 Procurado evolução pessoal e profissional
 - 📟 7º Semestre em Sistemas de Informação - UMC
