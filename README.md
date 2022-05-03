@@ -5,7 +5,6 @@
 - 💎 UI/UX, SEO & Clean code
 - 💪 Procurado evolução pessoal e profissional
 - 📟 7º Semestre em Sistemas de Informação - UMC
-- ⚡ Fun fact: Amo praia, mas tenho medo do mar
 - ⚠️ Respeito e comunicação !important
 <br>
 
