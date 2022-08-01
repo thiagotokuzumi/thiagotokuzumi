@@ -1,9 +1,8 @@
-### Seja bem vindo(a)! Me chamo Thiago Tokuzumi 👋
+### Hello, I'm Thiago Tokuzumi 👋
 
-- 🌱 Learning .NET 6 and Flutter
-- 💎 UI/UX, SEO & Clean code
-- 💪 Procurado evolução pessoal e profissional
-- 📟 7º Semestre em Sistemas de Informação - UMC
+- 🌱 Angular developer
+- 💪 Desenvolvedor e empreendedor
+- 📟 8º Semestre em Sistemas de Informação - UMC
 - ⚠️ Respeito e comunicação !important
 <br>
 
