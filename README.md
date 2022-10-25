@@ -3,7 +3,6 @@
 - 🌱 Angular developer
 - 💪 Desenvolvedor e empreendedor
 - 📟 8º Semestre em Sistemas de Informação - UMC
-- ⚠️ Respeito e comunicação !important
 <br>
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotokuzumi&layout=compact&langs_count=8&theme=highcontrast&custom_title=Linguagens%20mais%20utilizadas"/>
