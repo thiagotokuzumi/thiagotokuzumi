@@ -9,12 +9,12 @@
   
 <div style="display: inline_block">
   
-  ### Familiarizado
+  ### Languages
   
-  <img align="center" alt="JavaScript" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-  <img align="center" alt="TypeScript" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="PHP" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
+  <img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  <img align="center" alt="TypeScript" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Angular" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="PHP" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
   
   ## Contact
  
