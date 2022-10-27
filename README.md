@@ -1,15 +1,15 @@
 ### Hello, I'm Thiago Tokuzumi 👋
 
-- 🌱 Angular developer
-- 💪 Desenvolvedor e empreendedor
-- 📟 8º Semestre em Sistemas de Informação - UMC
+- 🌱 Front-end Developer
+- 💪 Dream low - better no dreaming
+- 📟 8/8 Bachelor's degree in Information Systems - UMC
 <br>
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotokuzumi&layout=compact&langs_count=8&theme=highcontrast&custom_title=Linguagens%20mais%20utilizadas"/>
   
 <div style="display: inline_block">
   
-  ### Languages
+  ### 
   
   <img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
   <img align="center" alt="TypeScript" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
