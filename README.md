@@ -1,6 +1,6 @@
 ### Hello, I'm Thiago Tokuzumi 👋
 
-- 🌱 Front-end Developer
+- 🌱 Fullstack Developer
 - 💪 Dream low - better no dreaming
 - 📟 8/8 Bachelor's degree in Information Systems - UMC
 <br>
