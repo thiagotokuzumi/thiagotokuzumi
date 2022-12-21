@@ -1,6 +1,6 @@
 ### Hello, I'm Thiago Tokuzumi 👋
 
-- 🌱 Fullstack Developer
+- 🌱 Fullstack Developer (JQuery AJAX, PHP, MySQL, HTML, JS, CSS)
 - 💪 Dream low - better no dreaming
 - 📟 8/8 Bachelor's degree in Information Systems - UMC
 <br>
