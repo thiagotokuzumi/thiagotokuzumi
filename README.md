@@ -1,8 +1,8 @@
 ### Hello, I'm Thiago Tokuzumi 👋
 
-- 🌱 Fullstack Developer (JQuery AJAX, PHP, MySQL, HTML, JS, CSS)
+- 🌱 Fullstack Web Developer (JQuery AJAX, PHP, MySQL)
 - 💪 Dream low - better no dreaming
-- 📟 8/8 Bachelor's degree in Information Systems - UMC
+- 📟 Bachelor's degree in Information Systems - UMC
 <br>
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotokuzumi&layout=compact&langs_count=8&theme=highcontrast&custom_title=Most%20used"/>
