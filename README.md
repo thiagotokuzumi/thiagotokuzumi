@@ -1,6 +1,6 @@
 ### Hello, I'm Thiago Tokuzumi 👋
 
-- 🌱 Fullstack Web Developer (PHP MySQL [Studying Laravel])
+- 🌱 Fullstack Web Dev (Laravel MySQL)
 - 💪 Dream low - better no dreaming
 - 📟 Bachelor's degree in Information Systems - UMC
 <br>
