@@ -1,4 +1,4 @@
-### Hello, I'm Thiago Tokuzumi 👋
+### Hi I'm Thiago Tokuzumi 👋
 
 - 🌱 Fullstack Web Dev (Laravel MySQL)
 - 💪 Dream low - better no dreaming
@@ -14,7 +14,7 @@
   <img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
   <img align="center" alt="Laravel" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="MySQL" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Tailwind" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="TailwindCSS" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
    
   ##
   
