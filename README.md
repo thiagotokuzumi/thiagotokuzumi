@@ -12,8 +12,7 @@
   ### 
   
   <img align="center" alt="JavaScript" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
-  <img align="center" alt="TypeScript" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain">
+  <img align="center" alt="Laravel" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="HTML" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
    
