@@ -1,8 +1,8 @@
 ### Hi I'm Thiago Tokuzumi 👋
 
-- 🌱 Fullstack Web Dev (Laravel MySQL)
-- 💪 Dream low - better no dreaming
-- 📟 Bachelor's degree in Information Systems - UMC
+- SR Web Dev
+- IA / Automation
+- Tech Lead  
 <br>
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotokuzumi&layout=compact&langs_count=8&theme=highcontrast&custom_title=Most%20used"/>
