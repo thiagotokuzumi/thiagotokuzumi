@@ -1,6 +1,6 @@
 ### Hi I'm Thiago Tokuzumi 👋
 
-- SR Web Dev
+- Web Dev
 - IA / Automation
 - Tech Lead  
 <br>
