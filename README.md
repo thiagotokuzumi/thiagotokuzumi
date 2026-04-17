@@ -1,5 +1,3 @@
-- Web / Mobile
-- Ai
-- Automation
+Senior full-stack engineer focused on building systems that scale. I work across infrastructure, backend, and product — designing for growth, security, and a solid user experience. Plan before ship.
 
-- Laravel, py, react/next, aws, db (sql / vector) & web 'all round' (tailwind, js, websocket channels, etc) 
+-> web, ai, aws, cloud, Meta, automation, vectors, bi
